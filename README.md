@@ -5,3 +5,6 @@
     
 2) What did you struggle with in this project?
    I struggled with generating random holes and coming up with the right statements to check the various conditions of the game. Without the guided steps/tasks and helping codes from the assessment doc, I might not be able to complete this project.
+   
+3) What would make your experience with this assessment better?
+   More practices on the relevant topics.
